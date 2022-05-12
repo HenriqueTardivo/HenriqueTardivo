@@ -5,6 +5,7 @@
  Atualmente trabalho na Romagnole Produtos Elétricos S.A como desenvolvedor, atuando bastante com SQL, Typescript/Javascript, RPA e Uniface.
 
 Sou apaixonado por aprender coisas novas e ensinar o que eu sei, então se precisar entrar em contato você pode me encontrar em:
+
 -📫  henrique.tardivo@gmail.com   
 
 -🤝 [Linkedin](https://www.linkedin.com/in/henrique-tardivo-50654a1a9/)
