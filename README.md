@@ -6,7 +6,9 @@
 
 Sou apaixonado por aprender coisas novas e ensinar o que eu sei, então se precisar entrar em contato você pode me encontrar em:
 -📫  henrique.tardivo@gmail.com   
+
 -🤝 [Linkedin](https://www.linkedin.com/in/henrique-tardivo-50654a1a9/)
+
 -📹 [Meu canal no Youtube](https://www.youtube.com/channel/UCex3OXnerpdGbDacfygILxQ)
 
 <!--
